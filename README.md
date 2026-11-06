@@ -39,6 +39,6 @@ A custom-engineered, high-precision motion controller designed to drive 5-phase 
 
 *Note: Complete schematics, detailed bridge layout gerbers, and full motor commutation firmware are proprietary assets. Contact directly for licensing or custom adaptations.*
 
-![Display Unit](CODE IN PDF.pdf)
+![PCB](pcb.pdf)
 
-![PCB Layout](3d_board.png)
+![PCB ](3d_board.png)
