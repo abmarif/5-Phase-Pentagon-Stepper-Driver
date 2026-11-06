@@ -19,7 +19,7 @@ A custom-engineered, high-precision motion controller designed to drive 5-phase 
 * **Protection Schemes:** Built-in overtemperature shutdown, short-circuit protection across coil phases, and under-voltage lockout (UVLO).
 
 - 📄 [Refarance PDF](REF.pdf)
-- 📄 [schematic](scematic.PDF)
+- 📄 [schematic](scematic.pdf)
 ---
 
 ## 📁 Repository Structure
@@ -38,3 +38,7 @@ A custom-engineered, high-precision motion controller designed to drive 5-phase 
 ---
 
 *Note: Complete schematics, detailed bridge layout gerbers, and full motor commutation firmware are proprietary assets. Contact directly for licensing or custom adaptations.*
+
+![Display Unit](3D%20FRONT.jpg)
+
+![PCB Layout](3d_board.png)
