@@ -18,8 +18,8 @@ A custom-engineered, high-precision motion controller designed to drive 5-phase 
 * **Power Stage:** Robust MOSFET H-bridge array designed with fast-recovery flyback freewheeling diodes and gate ringing suppression.
 * **Protection Schemes:** Built-in overtemperature shutdown, short-circuit protection across coil phases, and under-voltage lockout (UVLO).
 
-- 📄 [View Full Schematic PDF](REF.PDF)
-- 📄 [Download Complete PCB Layout PDF](scematic.PDF)
+- 📄 [Refarance PDF](REF.pdf)
+- 📄 [schematic](scematic.PDF)
 ---
 
 ## 📁 Repository Structure
