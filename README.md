@@ -5,7 +5,7 @@ Precision high-torque 5-phase pentagon stepper motor driver with smooth current 
 A custom-engineered, high-precision motion controller designed to drive 5-phase stepper motors in a pentagon configuration. Built for industrial automation, CNC machinery, and high-accuracy positioning applications requiring minimal vibration and high torque efficiency.
 
 ## 📌 Project Overview
-* **Motor Topology:** 5-Phase Bipolar / Pentagon Drive Configuration
+* **Motor Topology:** 5-Phase , Pentagon Drive Configuration
 * **Core Focus:** Smooth phase-switching sequence, constant current chopping, low resonance at low speeds, and optimized thermal management.
 * **Target Applications:** Precision positioning tables, CNC axes, optical positioning rigs, and textile equipment.
 
@@ -18,6 +18,8 @@ A custom-engineered, high-precision motion controller designed to drive 5-phase 
 * **Power Stage:** Robust MOSFET H-bridge array designed with fast-recovery flyback freewheeling diodes and gate ringing suppression.
 * **Protection Schemes:** Built-in overtemperature shutdown, short-circuit protection across coil phases, and under-voltage lockout (UVLO).
 
+- 📄 [View Full Schematic PDF](REF.PDF)
+- 📄 [Download Complete PCB Layout PDF](scematic.PDF)
 ---
 
 ## 📁 Repository Structure
