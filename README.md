@@ -42,3 +42,5 @@ A custom-engineered, high-precision motion controller designed to drive 5-phase 
 ![PCB](pcb.pdf)
 
 ![PCB ](3d_board.png)
+- 📥 [Download Reference Manual (PDF)](REF.pdf)
+- 📥 [Download Schematic (PDF)](scematic.pdf)
